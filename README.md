@@ -32,6 +32,9 @@
   <a href="https://docs.astral.sh/ruff/formatter/">
     <img src="https://img.shields.io/static/v1?label=code%20style&message=ruff&color=black&style=flat-square" height="20" alt="code style: black">
   </a>
+  <a href="https://codspeed.io/Ashishsonavane/Python?utm_source=badge">
+    <img src="https://img.shields.io/badge/CodSpeed-measured-blue?style=flat-square" height="20" alt="CodSpeed">
+  </a>
 
 <!-- Short description: -->
   <h3>All algorithms implemented in Python - for education 📚</h3>
